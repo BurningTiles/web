@@ -1,7 +1,7 @@
 # web
 ---
 Websites
-[Here...](https://parekhnikhil47.github.io/web)
+[Here...](https://burningtiles.github.io/web)
 
 ---
 BurningTiles
